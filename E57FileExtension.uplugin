@@ -1,0 +1,29 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "E57FileExtension",
+	"Description": "E57 file extension library",
+	"Category": "Other",
+	"CreatedBy": "Andrii Berozkin",
+	"CreatedByURL": "https://github.com/Andrii-Berozkin",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "E57FileExtension",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"PostBuildSteps": {
+		"Win64": [
+			"copy $(PluginDir)\\Source\\ThirdParty\\DynamicLib\\xerces-c_3_2.dll $(ProjectDir)\\Binaries\\Win64"
+		]
+	}
+}

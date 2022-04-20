@@ -1,0 +1,9 @@
+Package: libe57
+Version: 1.1.332
+Port-Version: 1
+Depends: boost-crc, boost-filesystem, boost-format, boost-math, boost-program-options, boost-system, boost-thread, boost-uuid, boost-variant, vcpkg-cmake, vcpkg-cmake-config, xerces-c
+Architecture: x64-windows
+Multi-Arch: same
+Abi: cf3f81f9b411ade9353adf1998f370cb233158296c9a92b0fd6e4fde6c9e67f5
+Description: An open source implementation of the ASTM E2807 Standard Specification for 3D Imaging Data Exchange in the C++ language.
+Type: Port

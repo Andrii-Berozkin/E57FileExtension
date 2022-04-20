@@ -1,0 +1,220 @@
+D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Intermediate\Build\Win64\UE4Editor\Development\E57FileExtension\Definitions.E57FileExtension.h
+D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Source\E57FileExtension\Public\E57FileExtension.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Core.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformStackWalk.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\HAL/PlatformStackWalk.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformStackWalk.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformNamedPipe.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\HAL/PlatformNamedPipe.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformNamedPipe.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformCriticalSection.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\HAL/PlatformFile.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformFile.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\HAL/PlatformAffinity.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformAffinity.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\HAL/PlatformIncludes.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\HAL/PlatformFilemanager.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/MessageDialog.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\ProfilingDebugging/ScopedDebugInfo.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\ProfilingDebugging/ExternalProfiler.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/StringUtility.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Serialization/NameAsStringProxyArchive.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Containers/MRUArray.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Containers/TransArray.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/ITransaction.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Misc\Change.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Containers/ArrayBuilder.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Serialization/BitReader.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Serialization/BitArchive.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Serialization/BitWriter.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/ScopedEvent.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\HAL/RunnableThread.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/SingleThreadEvent.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/SingleThreadRunnable.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\HAL/ThreadManager.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\HAL/ThreadSafeBool.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Containers/StaticBitArray.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Containers/MapBuilder.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Containers/ResourceArray.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Containers/DynamicRHIResourceArray.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Serialization/MemoryImage.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\typeinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\vcruntime_typeinfo.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\HAL/ThreadingBase.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Internationalization/TextLocalizationManagerGlobals.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Internationalization/Culture.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/NetworkGuid.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Math/SHMath.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Math/RandomStream.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Logging/LogSuppressionInterface.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\HAL/OutputDevices.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Logging/LogScopedVerbosityOverride.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceNull.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceMemory.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceFile.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceDebug.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceArchiveWrapper.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceError.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceAnsiError.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/BufferedOutputDevice.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Stats/StatsMisc.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/TimeGuard.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Serialization/LargeMemoryWriter.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Serialization/LargeMemoryData.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Serialization/LargeMemoryReader.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Serialization/BufferArchive.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Serialization/MemoryReader.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Serialization/ArrayReader.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Serialization/ArrayWriter.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Serialization/BufferWriter.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/Variant.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/WildcardString.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Containers/CircularBuffer.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Containers/CircularQueue.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\ProfilingDebugging/ProfilingHelpers.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceHelper.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/ScopedSlowTask.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/AutomationTest.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Async/Future.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Async/Async.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Internationalization/Regex.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Templates/ScopedCallback.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/CallbackDevice.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/ObjectThumbnail.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/LocalTimestampDirectoryVisitor.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Serialization/CustomVersion.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\UObject/BlueprintsObjectVersion.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\UObject/BuildObjectVersion.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\UObject/CoreObjectVersion.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\UObject/EditorObjectVersion.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\UObject/FrameworkObjectVersion.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\UObject/MobileObjectVersion.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\UObject/NetworkingObjectVersion.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\UObject/OnlineObjectVersion.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\UObject/PhysicsObjectVersion.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\UObject/PlatformObjectVersion.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\UObject/RenderingObjectVersion.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\UObject/SequencerObjectVersion.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\UObject/VRObjectVersion.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceConsole.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/MonitoredProcess.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/Attribute.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/EnumRange.h
+D:\UE_4.25\Engine\Source\Runtime\Projects\Public\Interfaces/IPluginManager.h
+D:\UE_4.25\Engine\Source\Runtime\Projects\Public\PluginDescriptor.h
+D:\UE_4.25\Engine\Source\Runtime\Projects\Public\ModuleDescriptor.h
+D:\UE_4.25\Engine\Source\Runtime\Json\Public\Serialization/JsonWriter.h
+D:\UE_4.25\Engine\Source\Runtime\Json\Public\Serialization/JsonTypes.h
+D:\UE_4.25\Engine\Source\Runtime\Json\Public\Policies/PrettyJsonPrintPolicy.h
+D:\UE_4.25\Engine\Source\Runtime\Json\Public\Policies/JsonPrintPolicy.h
+D:\UE_4.25\Engine\Source\Runtime\Projects\Public\CustomBuildSteps.h
+D:\UE_4.25\Engine\Source\Runtime\Projects\Public\LocalizationDescriptor.h
+D:\UE_4.25\Engine\Source\Runtime\Projects\Public\PluginReferenceDescriptor.h
+D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Source\ThirdParty\LibE57_x64-windows\include\e57/E57Foundation.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\vector
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xmemory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\limits
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cfloat
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\climits
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cwchar
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cstdio
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\intrin0.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\isa_availability.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xatomic.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xutility
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cstring
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\utility
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\string
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xstring
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iosfwd
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cctype
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iostream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\istream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\ostream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\ios
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocnum
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cmath
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iterator
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\streambuf
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xiosbase
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\share.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\system_error
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\__msvc_system_error_abi.hpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cerrno
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\stdexcept
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xcall_once.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xerrc.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\atomic
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xthreads.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xtimec.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\ctime
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\time.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocale
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\memory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xfacet
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocinfo.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\clocale
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\locale.h
+D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Source\ThirdParty\Include\boost/shared_ptr.hpp
+D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Source\ThirdParty\Include\boost/smart_ptr/shared_ptr.hpp
+D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Source\ThirdParty\Include\boost/smart_ptr/detail/shared_count.hpp
+D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Source\ThirdParty\Include\boost/smart_ptr/bad_weak_ptr.hpp
+D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Source\ThirdParty\Include\boost/config.hpp
+D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Source\ThirdParty\Include\boost/config/user.hpp
+D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Source\ThirdParty\Include\boost/config/detail/select_compiler_config.hpp
+D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Source\ThirdParty\Include\boost/config/compiler/visualc.hpp
+D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Source\ThirdParty\Include\boost/config/pragma_message.hpp
+D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Source\ThirdParty\Include\boost/config/helper_macros.hpp
+D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Source\ThirdParty\Include\boost/config/detail/select_stdlib_config.hpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\version
+D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Source\ThirdParty\Include\boost/config/stdlib/dinkumware.hpp
+D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Source\ThirdParty\Include\boost/config/detail/select_platform_config.hpp
+D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Source\ThirdParty\Include\boost/config/platform/win32.hpp
+D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Source\ThirdParty\Include\boost/config/detail/suffix.hpp
+D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Source\ThirdParty\Include\boost/config/detail/cxx_composite.hpp
+D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Source\ThirdParty\Include\boost/config/detail/cxx_composite.hpp
+D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Source\ThirdParty\Include\boost/smart_ptr/detail/sp_counted_base.hpp
+D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Source\ThirdParty\Include\boost/smart_ptr/detail/sp_has_gcc_intrinsics.hpp
+D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Source\ThirdParty\Include\boost/smart_ptr/detail/sp_has_sync_intrinsics.hpp
+D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Source\ThirdParty\Include\boost/smart_ptr/detail/sp_counted_base_std_atomic.hpp
+D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Source\ThirdParty\Include\boost/smart_ptr/detail/sp_typeinfo_.hpp
+D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Source\ThirdParty\Include\boost/smart_ptr/detail/sp_noexcept.hpp
+D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Source\ThirdParty\Include\boost/smart_ptr/detail/sp_counted_impl.hpp
+D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Source\ThirdParty\Include\boost/checked_delete.hpp
+D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Source\ThirdParty\Include\boost/core/checked_delete.hpp
+D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Source\ThirdParty\Include\boost/core/addressof.hpp
+D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Source\ThirdParty\Include\boost/smart_ptr/detail/sp_disable_deprecated.hpp
+D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Source\ThirdParty\Include\boost/throw_exception.hpp
+D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Source\ThirdParty\Include\boost/exception/exception.hpp
+D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Source\ThirdParty\Include\boost/assert/source_location.hpp
+D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Source\ThirdParty\Include\boost/current_function.hpp
+D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Source\ThirdParty\Include\boost/cstdint.hpp
+D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Source\ThirdParty\Include\boost/config/workaround.hpp
+D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Source\ThirdParty\Include\boost/cstdint.hpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\functional
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\tuple
+D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Source\ThirdParty\Include\boost/smart_ptr/detail/sp_convertible.hpp
+D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Source\ThirdParty\Include\boost/smart_ptr/detail/sp_nullptr_t.hpp
+D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Source\ThirdParty\Include\boost/assert.hpp
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\assert.h
+D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Source\ThirdParty\Include\boost/smart_ptr/detail/spinlock_pool.hpp
+D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Source\ThirdParty\Include\boost/smart_ptr/detail/spinlock.hpp
+D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Source\ThirdParty\Include\boost/smart_ptr/detail/spinlock_std_atomic.hpp
+D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Source\ThirdParty\Include\boost/smart_ptr/detail/yield_k.hpp
+D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Source\ThirdParty\Include\boost/smart_ptr/detail/sp_thread_pause.hpp
+D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Source\ThirdParty\Include\boost/smart_ptr/detail/sp_thread_sleep.hpp
+D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Source\ThirdParty\Include\boost/smart_ptr/detail/sp_win32_sleep.hpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\algorithm
+D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Source\ThirdParty\Include\boost/smart_ptr/detail/operator_bool.hpp
+D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Source\ThirdParty\Include\boost/smart_ptr/detail/local_sp_deleter.hpp
+D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Source\ThirdParty\Include\boost/smart_ptr/detail/local_counted_base.hpp
+D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Source\ThirdParty\Include\boost/weak_ptr.hpp
+D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Source\ThirdParty\Include\boost/smart_ptr/weak_ptr.hpp
+D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Source\ThirdParty\Include\boost/enable_shared_from_this.hpp
+D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Source\ThirdParty\Include\boost/smart_ptr/enable_shared_from_this.hpp
+D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Source\ThirdParty\Include\boost/assert.hpp
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\assert.h
+D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Source\ThirdParty\Include\boost/cstdint.hpp

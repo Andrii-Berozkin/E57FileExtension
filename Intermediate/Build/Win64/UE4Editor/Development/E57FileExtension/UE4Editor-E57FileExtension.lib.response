@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-E57FileExtension.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UE_4_Projects\E57PluginTest\Intermediate\Build\Win64\E57PluginTestEditor\Development\Core\SharedPCH.Core.ShadowErrors.h.obj"
+"D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Intermediate\Build\Win64\UE4Editor\Development\E57FileExtension\E57FileExtension.cpp.obj"
+"D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Intermediate\Build\Win64\UE4Editor\Development\E57FileExtension\Default.rc2.res"
+/OUT:"D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Intermediate\Build\Win64\UE4Editor\Development\E57FileExtension\UE4Editor-E57FileExtension.lib"
+/INCLUDE:IMPLEMENT_MODULE_E57FileExtension
