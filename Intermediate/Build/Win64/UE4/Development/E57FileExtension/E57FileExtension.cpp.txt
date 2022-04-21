@@ -1,4 +1,4 @@
-D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Intermediate\Build\Win64\UE4Editor\Development\E57FileExtension\Definitions.E57FileExtension.h
+D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Intermediate\Build\Win64\UE4\Development\E57FileExtension\Definitions.E57FileExtension.h
 D:\UE_4_Projects\E57PluginTest\Plugins\E57FileExtension\Source\E57FileExtension\Public\E57FileExtension.h
 D:\UE_4.25\Engine\Source\Runtime\Core\Public\Core.h
 D:\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
@@ -40,8 +40,6 @@ D:\UE_4.25\Engine\Source\Runtime\Core\Public\Containers/MapBuilder.h
 D:\UE_4.25\Engine\Source\Runtime\Core\Public\Containers/ResourceArray.h
 D:\UE_4.25\Engine\Source\Runtime\Core\Public\Containers/DynamicRHIResourceArray.h
 D:\UE_4.25\Engine\Source\Runtime\Core\Public\Serialization/MemoryImage.h
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\typeinfo
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\vcruntime_typeinfo.h
 D:\UE_4.25\Engine\Source\Runtime\Core\Public\HAL/ThreadingBase.h
 D:\UE_4.25\Engine\Source\Runtime\Core\Public\Internationalization/TextLocalizationManagerGlobals.h
 D:\UE_4.25\Engine\Source\Runtime\Core\Public\Internationalization/Culture.h

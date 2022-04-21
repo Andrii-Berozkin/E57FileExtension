@@ -5,10 +5,6 @@
 #include <Modules/ModuleManager.h>
 #include <Interfaces/IPluginManager.h>
 
-THIRD_PARTY_INCLUDES_START
-#include <e57/E57Foundation.h>
-THIRD_PARTY_INCLUDES_END
-
 DEFINE_LOG_CATEGORY(E57Log);
 
 #define LOCTEXT_NAMESPACE "FE57FileExtensionModule"
@@ -20,6 +16,7 @@ void FE57FileExtensionModule::StartupModule()
 	FString BaseDir = IPluginManager::Get().FindPlugin("E57FileExtension")->GetBaseDir();
 	
 	FString XercesDll = FPaths::Combine(*BaseDir, TEXT("Source/ThirdParty/DynamicLib/xerces-c_3_2.dll"));
+
 
 	XercesHanlde = !XercesDll.IsEmpty() ? FPlatformProcess::GetDllHandle(*XercesDll) : nullptr;
 	{
@@ -33,12 +30,11 @@ void FE57FileExtensionModule::StartupModule()
 		}
 	}
 
-	//e57::ImageFile Imgf("foo.e57", "w");
 }
 
 void FE57FileExtensionModule::ShutdownModule()
 {
-	//FPlatformProcess::FreeDllHandle(XercesHanlde);
+	FPlatformProcess::FreeDllHandle(XercesHanlde);
 	XercesHanlde = nullptr;
 }
 
