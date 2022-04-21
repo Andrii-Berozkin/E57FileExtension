@@ -10,20 +10,32 @@ public class E57FileExtensionLib : ModuleRules
 	{
 		Type = ModuleType.External;
 
+		bool bBuildE57InPluginModule = false;
+
+		if(bBuildE57InPluginModule == true)
+        {
+			LoadE57(Target);
+        }
+
+	}
+
+	public void LoadE57(ReadOnlyTargetRules Target)
+    {
 		if (Target.Platform == UnrealTargetPlatform.Win64)
 		{
+			//Use in Plugin module
+			string IncludeDir = "$(PluginDir)/Source/ThirdParty/Include";
+			string StaticLibDir = "$(PluginDir)/Source/ThirdParty/lib";
+			string DynamicLibDir = "$(PluginDir)/Source/ThirdParty/DynamicLib";
+			string E57Dir = "$(PluginDir)/Source/ThirdParty/LibE57_x64-windows";
 
-			//string IncludeDir = "$(PluginDir)/Source/ThirdParty/Include";
-			//string StaticLibDir = "$(PluginDir)/Source/ThirdParty/lib";
-			//string DynamicLibDir = "$(PluginDir)/Source/ThirdParty/DynamicLib";
-			//string E57Dir = "$(PluginDir)/Source/ThirdParty/LibE57_x64-windows";
+			//Use in Project module
+			//string IncludeDir = "$(ProjectDir)/Plugins/E57FileExtension/Source/ThirdParty/Include";
+			//string StaticLibDir = "$(ProjectDir)/Plugins/E57FileExtension/Source/ThirdParty/lib";
+			//string DynamicLibDir = "$(ProjectDir)/Plugins/E57FileExtension/Source/ThirdParty/DynamicLib";
+			//string E57Dir = "$(ProjectDir)/Plugins/E57FileExtension/Source/ThirdParty/LibE57_x64-windows";
 
-			string IncludeDir = "$(ProjectDir)/Plugins/E57FileExtension/Source/ThirdParty/Include";
-			string StaticLibDir = "$(ProjectDir)/Plugins/E57FileExtension/Source/ThirdParty/lib";
-			string DynamicLibDir = "$(ProjectDir)/Plugins/E57FileExtension/Source/ThirdParty/DynamicLib";
-			string E57Dir = "$(ProjectDir)/Plugins/E57FileExtension/Source/ThirdParty/LibE57_x64-windows";
-
-
+			
 			//Add headers from include
 			{
 				//Add include dir which contains boost, xerces-c, etc. .hpp
@@ -88,15 +100,14 @@ public class E57FileExtensionLib : ModuleRules
 
 			//Add Xerces-c dynamic library
 			{
-				//PublicDelayLoadDLLs.Add("$(ProjectDir)/Binaries/Win64/xerces-c_3_2.dll");
-
+				//Add possibility to manual load dll
 				PublicDelayLoadDLLs.Add(Path.Combine(DynamicLibDir, "xerces-c_3_2.dll"));
 
+
+				//Add .dll lib to Dependencies and assign to automatation copy to Build Dir
 				RuntimeDependencies.Add("$(TargetOutputDir)/xerces-c_3_2.dll", Path.Combine(DynamicLibDir, "xerces-c_3_2.dll"));
-				RuntimeDependencies.Add("$(BinaryOutputDir)/xerces-c_3_2.dll", Path.Combine(DynamicLibDir, "xerces-c_3_2.dll"));
 			}
 		}
-
 	}
 
 }

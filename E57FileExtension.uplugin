@@ -20,10 +20,5 @@
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		}
-	],
-	"PostBuildSteps": {
-		"Win64": [
-			"copy $(PluginDir)\\Source\\ThirdParty\\DynamicLib\\xerces-c_3_2.dll $(ProjectDir)\\Binaries\\Win64"
-		]
-	}
+	]
 }
