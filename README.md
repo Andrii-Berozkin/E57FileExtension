@@ -11,8 +11,6 @@ Xerces-c version 3.2
 
 Tested on Unreal Engine 4.25.4
 
-## 
-
 ## Installing
 
 1. Copy all folders into [ProjectRootDir]/Plugins
