@@ -5,17 +5,20 @@ Simple Unreal Engine plugin that integrates E57 File format library for Point Cl
 
 Versions of Libraries which used for this plugin
 
-E57 version 2013-04-03
-Boost version 1.78
-Xerces-c version 3.2
+- E57 version 2013-04-03
+- Boost version 1.78
+- Xerces-c version 3.2
 
 Tested on Unreal Engine 4.25.4
 
 ## Installing
 
-1. Copy all folders into [ProjectRootDir]/Plugins
-2. Open [ProjectName].build.cs and add the following code 
-`private string ThirdPartyPath
+1. Copy all folders into [ProjectRootDir]/Plugins.
+
+2. Open [ProjectName].build.cs and add the following code.
+
+````
+private string ThirdPartyPath
 {
 	get { return Path.GetFullPath(Path.Combine(ModuleDirectory, "../../Plugins/E57FileExtension/Source/ThirdParty/")); }
 }
@@ -109,7 +112,8 @@ public void LoadE57(ReadOnlyTargetRules Target)
 			RuntimeDependencies.Add("$(TargetOutputDir)/xerces-c_3_2.dll", Path.Combine(DynamicLibDir, "xerces-c_3_2.dll"));
 		}
 	}
-}`
+}
+````
 
 3. Generate Visual Studio project file (** Find in project root dir [ProjectName].uproject -> RMB -> Generate Visual Studio project file**)
 and after that you will be able to compile project
@@ -119,5 +123,7 @@ and after that you will be able to compile project
 Use `THIRD_PARTY_INCLUDES_START` and `THIRD_PARTY_INCLUDES_END` macro to include files from Plugin
 
 you can find E57 libs under `#include <e57/*>`
+
 boost - `#include <boost/*>`
+
 xerces-c -`#include <xercesc/*>`
