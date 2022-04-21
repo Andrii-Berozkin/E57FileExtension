@@ -115,7 +115,7 @@ public void LoadE57(ReadOnlyTargetRules Target)
 }
 ````
 
-3. Generate Visual Studio project file (** Find in project root dir [ProjectName].uproject -> RMB -> Generate Visual Studio project file**)
+3. Generate Visual Studio project file (**Find in project root dir [ProjectName].uproject -> RMB -> Generate Visual Studio project file**)
 and after that you will be able to compile project
 
 ## Usage
