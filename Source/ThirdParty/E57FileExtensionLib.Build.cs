@@ -103,7 +103,6 @@ public class E57FileExtensionLib : ModuleRules
 				//Add possibility to manual load dll
 				PublicDelayLoadDLLs.Add(Path.Combine(DynamicLibDir, "xerces-c_3_2.dll"));
 
-
 				//Add .dll lib to Dependencies and assign to automatation copy to Build Dir
 				RuntimeDependencies.Add("$(TargetOutputDir)/xerces-c_3_2.dll", Path.Combine(DynamicLibDir, "xerces-c_3_2.dll"));
 			}
