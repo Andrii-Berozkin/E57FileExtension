@@ -1,5 +1,6 @@
 # E57 File Extension Plugin
-Simple Unreal Engine plugin that integrates E57 File format library for Point Cloud Data.
+Simple Unreal Engine plugin that integrates E57 File format library for Point Cloud Data. 
+With this Plugin you can use e57, boost, xerces-c library allong whole Project module (means anywhere where class defines with `[ProjectName]_API` macros)
 
 ## Library vesions
 
@@ -13,9 +14,20 @@ Tested on Unreal Engine 4.25.4
 
 ## Installing
 
-1. Copy all folders into [ProjectRootDir]/Plugins.
+1. Copy all folders into [ProjectRootDir]/Plugins/E57FileExtension.
 
-2. Open [ProjectName].build.cs and add the following code.
+if you use .zip you
+
+2. Open [ProjectName].build.cs and add the following code in the constructor.
+
+````
+PublicDependencyModuleNames.AddRange(new string[] { "E57FileExtension" });
+PrivateDependencyModuleNames.AddRange(new string[] { "E57FileExtension" });
+
+LoadE57(Target);
+````
+
+Add this under [ProjectName].build.cs constructor to implement LoadE57 function.
 
 ````
 private string ThirdPartyPath
