@@ -1,5 +1,5 @@
 # E57 File Extension Plugin
-[<img align="right" src="https://raw.github.com/Andrii-Berozkin/E57FileExtension/master/Resources/Icon128.jpg" width="128" height="128"/>](https://raw.github.com/Andrii-Berozkin/E57FileExtension/master/Resources/Icon128.jpg)
+[<img align="right" src="https://github.com/Andrii-Berozkin/E57FileExtension/blob/master/Resources/Icon128.jpg" width="128" height="128"/>](https://github.com/Andrii-Berozkin/E57FileExtension/blob/master/Resources/Icon128.jpg)
 Simple Unreal Engine plugin that integrates E57 File format library for Point Cloud Data. 
 With this Plugin you can use e57, boost, xerces-c library allong whole Project module (means anywhere where class defines with `[ProjectName]_API` macros)
 
